@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="7" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2960" started-at="2018-08-11T02:00:16Z" finished-at="2018-08-11T02:00:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2960" started-at="2018-08-11T02:00:16Z" finished-at="2018-08-11T02:00:19Z">
+      <class name="com.restapi.RestAPI">
+        <test-method status="PASS" signature="PostRequestUsingJSONObject2()[pri:0, instance:com.restapi.RestAPI@42d80b78]" name="PostRequestUsingJSONObject2" duration-ms="2921" started-at="2018-08-11T02:00:16Z" finished-at="2018-08-11T02:00:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostRequestUsingJSONObject2 -->
+      </class> <!-- com.restapi.RestAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
