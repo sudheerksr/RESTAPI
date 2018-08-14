@@ -13,6 +13,7 @@ public class Test1 {
 	public void t2() {
 		System.out.println("Test Is....");
 	}
+
 	@Test
 	public void t3() {
 		System.out.println("Test Is....");
@@ -22,4 +23,5 @@ public class Test1 {
 	public void t5() {
 		System.out.println("Test Is....");
 	}
+
 }
